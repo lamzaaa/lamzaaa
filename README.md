@@ -1,11 +1,11 @@
 <div align="center"><img src="./assets/image.webp" width='100%'></img></div>
-
+<br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=B5179E&background=FF000000&center=true&vCenter=true&random=false&width=435&lines=I'm+a+FrontEnd+Developer)](https://git.io/typing-svg)
 
-![Current UTC time](https://jojoee.jojoee.com/api/utcnowgif?utcnow)
-
 **** 
+<br>
+<br>
 
 # About Me
 
